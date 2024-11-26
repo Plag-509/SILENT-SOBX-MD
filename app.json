@@ -1,7 +1,7 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "name": "PLAG-MD",
+  "description": "HERE'S  PLAG'S BOT",
+  "logo": "https://files.catbox.moe/swi3ge.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "z2RiBKCa#HD75zUCXP0lW75MVQNAmk0u8ka04_rM6WGLUNHWybz8"
     },  
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/h5ddpq.jpg"
+      "value": "https://files.catbox.moe/swi3ge.jpeg"
     }, 
     
     "ALIVE_MSG": {
@@ -28,7 +28,7 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
-      "value": "."
+      "value": ","
     },
     
     "MODE": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "PLAG-MD"
     }, 
 
     "HEART_REACT": {
